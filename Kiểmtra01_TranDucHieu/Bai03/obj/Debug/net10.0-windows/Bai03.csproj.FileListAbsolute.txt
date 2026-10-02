@@ -1,0 +1,14 @@
+C:\Users\admin\OneDrive\Desktop\Kiểmtra01_TranDucHieu\Bai03\bin\Debug\net10.0-windows\Bai03.exe
+C:\Users\admin\OneDrive\Desktop\Kiểmtra01_TranDucHieu\Bai03\bin\Debug\net10.0-windows\Bai03.deps.json
+C:\Users\admin\OneDrive\Desktop\Kiểmtra01_TranDucHieu\Bai03\bin\Debug\net10.0-windows\Bai03.runtimeconfig.json
+C:\Users\admin\OneDrive\Desktop\Kiểmtra01_TranDucHieu\Bai03\bin\Debug\net10.0-windows\Bai03.dll
+C:\Users\admin\OneDrive\Desktop\Kiểmtra01_TranDucHieu\Bai03\bin\Debug\net10.0-windows\Bai03.pdb
+C:\Users\admin\OneDrive\Desktop\Kiểmtra01_TranDucHieu\Bai03\obj\Debug\net10.0-windows\Bai03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Desktop\Kiểmtra01_TranDucHieu\Bai03\obj\Debug\net10.0-windows\Bai03.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Desktop\Kiểmtra01_TranDucHieu\Bai03\obj\Debug\net10.0-windows\Bai03.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Desktop\Kiểmtra01_TranDucHieu\Bai03\obj\Debug\net10.0-windows\Bai03.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Desktop\Kiểmtra01_TranDucHieu\Bai03\obj\Debug\net10.0-windows\Bai03.dll
+C:\Users\admin\OneDrive\Desktop\Kiểmtra01_TranDucHieu\Bai03\obj\Debug\net10.0-windows\refint\Bai03.dll
+C:\Users\admin\OneDrive\Desktop\Kiểmtra01_TranDucHieu\Bai03\obj\Debug\net10.0-windows\Bai03.pdb
+C:\Users\admin\OneDrive\Desktop\Kiểmtra01_TranDucHieu\Bai03\obj\Debug\net10.0-windows\Bai03.genruntimeconfig.cache
+C:\Users\admin\OneDrive\Desktop\Kiểmtra01_TranDucHieu\Bai03\obj\Debug\net10.0-windows\ref\Bai03.dll
