@@ -6,7 +6,7 @@
 ![Test Case TC02](<Test Case TC02.png>)
 ## Test Case TC03: Kiểm tra Tính Giá Lăn Bánh Xe máy
 ![Test Case TC03](<Test Case TC03.png>)
-## Test Case TC04: Kiểm tra Đahình List<Phuong Tien>
+## Test Case TC04: Kiểm tra Đa hình List<Phuong Tien>
 ![Test Case TC04](<Test Case TC04.png>)
 ## Test Case TC05: Kiểm tra Tìm Giá Lăn Bánh Max
 ![Test Case TC05](<Test Case TC05.png>)
